@@ -99,13 +99,18 @@
       "job": "Senior Designer"
     },
     {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
       "img": "img/team/04.jpg",
       "name": "Karen Doe",
       "job": "Project Manager"
     }
   ],
   "Contact": {
-    "address": "Head Office, VIT CHENNAI, VANDALUR KELAMBAKKAM ROAD, CHENNAI 600048",
+    "address": "Head Office, VIT Chennai, Vandalur Kelambakkam Road, Chennai 600048",
     "phone": "+91 636-764-5457",
     "email": "enactus.vitc@gmail.com",
     "facebook": "https://www.facebook.com/enactusvitc/",
