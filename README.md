@@ -7,7 +7,7 @@ All 'visual' data can be easily modified by changing the data.json file.
 ### 1. Preps
 You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
 
-### 2. Clone Files
+### 2. How to run
 After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
 
 You can also change styles by modifying the ```public/css``` files.
