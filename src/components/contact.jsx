@@ -133,7 +133,7 @@ export const Contact = (props) => {
                   </li>
                   <li>
                     <a href={props.data ? props.data.twitter : '/'}>
-                      <i className='fa fa-twitter'></i>
+                      <i className='fa fa-instagram'></i>
                     </a>
                   </li>
                   <li>
@@ -150,11 +150,8 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-             Design by{' '}
-            <a href='https://saksham0309.github.io/Profile/#' rel='Saksham'>
-              TemplateWire
-            </a>
-          </p>
+            Design by Enactus VITC
+            </p>
         </div>
       </div>
     </div>
