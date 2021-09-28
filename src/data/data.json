@@ -85,28 +85,24 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "Varun",
-      "job": "President"
+      "name": "John Doe",
+      "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Ishta",
-      "job": "Vice-President"
+      "name": "Mike Doe",
+      "job": "Senior Designer"
     },
     {
       "img": "img/team/03.jpg",
       "name": "Jane Doe",
       "job": "Senior Designer"
     },
-    {
-      "img": "img/team/01.jpg",
-      "name": "Aayush",
-      "job": "Director of Project"
-    },
+      
     {
       "img": "img/team/04.jpg",
-      "name": "Urmila",
-      "job": "Director of Project"
+      "name": "Karen Doe",
+      "job": "Project Manager"
     }
   ],
   "Contact": {
@@ -120,22 +116,22 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
+      "title": "Product 1",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
+      "title": "Product 2",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
+      "title": "Product 3",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
+      "title": "Product 4",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]
