@@ -9,5 +9,3 @@ You will need to have <a href="https://nodejs.org/">Node JS</a> installed on you
 
 ### 2. How to run
 After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-
-You can also change styles by modifying the ```public/css``` files.
